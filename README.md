@@ -27,10 +27,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone -b mohit_dev https://github.com/mohitjoshi29/webiators_ecommerce_web.git
 
 # Navigate to project folder
-cd <YOUR_PROJECT_NAME>
+cd webiators_ecommerce_web
 
 # Install dependencies
 npm install
